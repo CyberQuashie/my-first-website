@@ -23,4 +23,3 @@ Your name and job title
 A short bio
 
 Social media links (as icons or text)
-
