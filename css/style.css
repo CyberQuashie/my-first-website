@@ -1,12 +1,13 @@
 body{
 margin:0;
 padding:0;
+padding-top: 70px;
 font-family:Oswald,sans-serif;
 }
 
 nav ul{
 list-style:none;
-background-color: #4A4A4F;
+background-color: #181822;
 text-align: center;
 padding: 0;
 margin: 0;
