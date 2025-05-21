@@ -63,3 +63,19 @@ h3{
 img {
     width:100%;
     height:100px;}
+    .carousel-container {
+        width: 100%;
+        max-width: 1200px; /* optional max limit */
+        margin: 0 auto;
+      }
+      
+      .carousel-inner {
+        height: 60vh; /* adjust height dynamically */
+      }
+      
+      .carousel-inner img {
+        object-fit: cover; /* fills the area while maintaining aspect ratio */
+        height: 100%;
+        width: 100%;
+      }
+      
